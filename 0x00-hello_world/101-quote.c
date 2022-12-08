@@ -1,8 +1,8 @@
 #include <studio.h>
 #include <unistd.h>
 /**
- * main - Entry
- * Return: 1
+ * main - prints axactly and that piece of work is useful
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
