@@ -1,4 +1,3 @@
-#include <studio.h>
 #include <unistd.h>
 /**
  * main - prints axactly and that piece of work is useful
